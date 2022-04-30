@@ -14,5 +14,5 @@
 
 #### Resources
  <font size= "4"> <div align= "left">
-  The only resource necessary is the Happy Whale data set itself. For easy of access, we have included the data set in this github repository. If you would like to download the data set from Kaggle instead follow this link to the Happy Whale Kaggle competition page: https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview.
+  The only resource necessary is the Happy Whale data set itself. Unfortunately, we cannot included the data set in this github repository. You may download the data set from Kaggle by following this link to the Happy Whale Kaggle competition page: https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview.
 </div></font>
